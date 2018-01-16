@@ -1,0 +1,1 @@
+These are some small programs I wrote in order to learn Golang
